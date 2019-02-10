@@ -1,7 +1,7 @@
 {
-  "6d51a168265ddf1c33f60fa111a26dc7": {
+  "e5bffa94ccbb0b52f4103eeb6a3098d2": {
     "meta": {
-      "url": "http://something.com/unexisting",
+      "url": "http://something.com/non-existent",
       "method": "get",
       "headers": {
         "Accept": "application/json, text/plain, */*",
@@ -30,7 +30,7 @@
       },
       "data": "bla",
       "config": {
-        "url": "http://something.com/unexisting",
+        "url": "http://something.com/non-existent",
         "method": "get",
         "headers": {
           "Accept": "application/json, text/plain, */*",
